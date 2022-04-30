@@ -11,6 +11,9 @@
 - Golang and WinAPI
 - SAM Hash
 - Better understanding of pointers
+- testing and fuzzing
+- Encrypted Reverse Shell
+- 
 
 
 ## Project List
