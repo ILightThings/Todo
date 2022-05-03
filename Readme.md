@@ -1,7 +1,7 @@
 # Todo List
 
 ## Security Research
-- $IPC enumeration (How enum4linux works)
+- $RPC enumeration (How enum4linux works)
 - Cloud Pentesting
 - Webscraper
 
